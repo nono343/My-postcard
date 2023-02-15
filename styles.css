@@ -41,10 +41,9 @@ body {
 	padding: 10px;
 }
 
-.input {
+.postcard-body input {
 	border: none;
-	border-bottom: solid;
-	border-bottom-color: grey;
+	border-bottom: 1px solid grey;
 }
 
 .postcard-footer {
